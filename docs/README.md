@@ -8,3 +8,6 @@
 
 ## Levantamiento del ambiente
 ![Levantamiento del ambiente](./03.png)
+
+## Administracion de Django
+![Administracion de Django](./04.png)
