@@ -11,3 +11,6 @@
 
 ## Administracion de Django
 ![Administracion de Django](./04.png)
+
+## Segunda evidencia de administracion
+![Administracion de Django](./05.png)
