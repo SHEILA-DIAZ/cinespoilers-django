@@ -1,10 +1,10 @@
 # Sheila Diaz Rojas  "Diaz"
 
 ## Creacion del repositorio
-![Creacion del repositorio](./docs/01.png)
+![Creacion del repositorio](./01.png)
 
 ## Prepacion del ambiente
-![Preparacion del ambiente](./docs/02.png)
+![Preparacion del ambiente](./02.png)
 
 ## Levantamiento del ambiente
-![Levantamiento del ambiente](./docs/03.png)
+![Levantamiento del ambiente](./03.png)
