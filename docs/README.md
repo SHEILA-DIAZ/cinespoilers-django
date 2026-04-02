@@ -21,5 +21,11 @@
 ## Mas + Añadir pelicula Admin
 ![Añadir pelicula admin](./07.png)
 
+## Eliminar una pelicula
+![Elininar pelicula ](./08.png)
+
+## Seguro?-Eliminar una pelicula
+![Elininar pelicula ](./09.png)
+
 ## Front 
-![Front](./08.png)
+![Front](./10.png)
