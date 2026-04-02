@@ -14,3 +14,12 @@
 
 ## Segunda evidencia de administracion
 ![Administracion de Django](./05.png)
+
+## Añadir pelicula Admin
+![Añadir pelicula admin](./06.png)
+
+## Mas + Añadir pelicula Admin
+![Añadir pelicula admin](./07.png)
+
+## Front 
+![Front](./08.png)
